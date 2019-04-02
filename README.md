@@ -1,8 +1,9 @@
 # Applied Machine Learning NFL Challenge Project
 
-> Can Machine Learning Beat the Vegas Spread for NFL Games?
+## Can Machine Learning Beat the Vegas Spread for NFL Games?
 
-> By: Shivam Kapadia & Peter Russell
+> By: Shivam Kapadia, Peter Russell, Felix Kikaya
+> > Indiana University - Bloomington
 
 # Topic Motivation
 
